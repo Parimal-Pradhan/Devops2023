@@ -1,0 +1,44 @@
+Getting Started with DevOps!!
+
+Day:1 Introduction To DevOps
+
+What is DevOps?
+The Word DevOps indicates that it is a combination of the Development(Dev) and Operation(Ops) teams. Development Teams and Operations Teams work together on the same product.
+
+DevOps is a culture or methodology or process which is used in the organization to improve the delivery of the product by ensuring by doing automation(writing automation script), Quality Checks, Continuous Monitoring and Continuous Testing(CICD).
+
+What is Automation?
+Automation is very important for software development and operations. It helps in the faster development of a new product and faster delivery and continuous feedback.
+
+Automation can be done by writing scripts. Automation can be done at each stage by fetching the code from a central repository, Building the code, testing the code, and Monitoring the code.
+
+What is Scaling?
+Scaling in DevOps represents an automation environment where the developer or organization can adopt a DevOps culture and choose the correct technologies to scale business growth.
+
+What is Infrastructure?
+Infrastructure automation can be achieved with the help of the DevOps culture. We can manage infrastructure by writing code. If infrastructure is automated it also helps developer and operations teams to manage and monitor resources automatically.
+
+Infrastructure can be managed or can write code with the help of below tools:
+
+Terraform
+
+Ansible
+
+Cloud formation etc.,
+
+Why DevOps Is Important?
+It bridges the gap between Developer and IT Operation Teams.
+
+Faster Development of the product.
+
+Continuous feedback.
+
+Less manual interventions.
+
+Continuous Delivery.
+
+Easy Deployment.
+
+Thanks for reading my article. Have a nice day.
+
+You can follow me on LinkedIn for my daily updates:- https://www.linkedin.com/in/parimal-pradhan-b62021168/
