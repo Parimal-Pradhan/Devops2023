@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo "Enter Directory Name:"
+read dir_nm
+echo "Enter Start Number:"
+read start_nm
+echo "Enter End Number:"
+read end_nm
+
+
+for (( i =$start_nm; i <=end_nm; i++))
+do
+         mkdir "$dir_nm$i"
+         echo "$dir_nm$i"
+done
